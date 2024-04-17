@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author THINKBOOK
+ *
+ */
+module Socket {
+}
